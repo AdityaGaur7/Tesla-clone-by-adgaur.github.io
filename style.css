@@ -167,6 +167,7 @@ margin-top: 7vh;
 }
 .link a{
     padding: 0vw;
+    font-size: 10px;
 }
 .side{
     display: none;
