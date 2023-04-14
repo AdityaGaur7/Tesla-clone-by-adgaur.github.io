@@ -81,6 +81,7 @@ a{  margin: 1vw;
     width: 70vw;
    position: relative;
    margin-left: 25vw;
+        font-size: 14px;
     z-index: 5;
 }
 
