@@ -30,7 +30,7 @@ text-transform: capitalize;
 
 a{  margin: 1vw;
     padding: 2px 0px;
-   
+       font-size: 14px;
     font-weight: 600;
     color: rgb(54, 53, 53);
 }
